@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace dummytest1
 {
-    class Program
+     class Program
     {
         static void Main(string[] args)
         {
